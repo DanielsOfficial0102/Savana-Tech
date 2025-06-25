@@ -9,6 +9,7 @@ Este projeto simula a criação de um DataLake para a fintech fictícia **Savana
 ```
 Savana-Tech/
 │
+├── Alternativa                  # Versão alternativa que está Funcional
 ├── Camada - Bronze              # Ingestão dos dados brutos (Spark)
 ├── Camada - Silver              # Tratamento e enriquecimento (Spark)
 ├── Camada - Gold                # Métricas finais (SQL)
